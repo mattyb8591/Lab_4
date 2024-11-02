@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Button1">airship</string>
+    <string name="Button2">airship</string>
+    <string name="Button3">airship</string>
+    <string name="Button4">airship</string>
+    <string name="logo">Wizard Logo</string>
+    <string name="Fleet_text">Fleet</string>
+    <string name="Airship_name">Airship name</string>
+    <string name="wizard_rank">Wizard rank</string>
+    <string name="wizard_name">Wizard name</string>
+</resources>
