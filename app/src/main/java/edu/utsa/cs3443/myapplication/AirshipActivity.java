@@ -98,7 +98,6 @@ public class AirshipActivity extends AppCompatActivity {
 
             //adding the horizontal layout to the root vertical linear layout
             verticalLayout.addView(horizontalLayout);
-
         }
 
     }
